@@ -1,3 +1,4 @@
 @Cyan735
-- Knowledge in Java and Python
-- Interested in Machine Learning and AI
+- Using Godot 4
+- Currently working on a Flappy Bird Clone
+- Interested in Machine Learning
