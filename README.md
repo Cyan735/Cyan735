@@ -1,3 +1,3 @@
 @Cyan735
-- Using Godot 4
-- Currently working on a mobile game
+- Free time Minecraft plugin developer
+- Check out my [Modrinth page](https://modrinth.com/user/Cyan735)
