@@ -1,2 +1,1 @@
 - Free time Minecraft plugin developer, see [my projects on Modrinth](https://modrinth.com/user/Cyan735)
-- Currently learning Web Full Stack on [roadmap.sh](https://roadmap.sh/u/cyan735)
